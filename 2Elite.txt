@@ -1,0 +1,34 @@
+2Elite
+I'm having 2Elite
+Silver ash, bagpipes, Lapland, Aiya Pedla, may
+
+1. Silver ash
+2. bagpipes
+3. Lapland
+4. Aiya Pedla
+5. May
+
+1. Silver ash
+Name : Silver ash
+Job : Guard
+Main Skill : Jin Eun-Cham
+
+2. Bagpipes
+Name : Bagpipes
+Job : Vanguard
+Main Skill : Closed bolt repetition
+
+3. Lapland
+Name : Lapland
+Job : Guard
+Main Skill : Wolf's soul
+
+4. Aiya Pedla
+Name : Aiya Pedla
+Job : Caster
+Main Skill : Ignition
+
+5. May
+Name : May
+Job : sniper
+Main Skill : Paralysis
